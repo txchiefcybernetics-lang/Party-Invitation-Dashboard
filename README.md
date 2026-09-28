@@ -4,7 +4,8 @@ Welcome to the Tradexpress Playground documentation. Playgrounds allow you to ru
 Getting Started
 Open the Playground: Navigate to the Tradexpress Playground.
 
-Browser Compatibility:
+Browser Compatibility:Embed presentation
+    <iframe src="https://www.slideshare.net/slideshow/embed_code/key/s0jgpCg83mwgH" width="510" height="420"frameborder="0" marginwidth="0" marginheight="0" scrolling="no"style="border: var(--border-1) solid #CCC; border-width:1px; margin-bottom:5px; max-width:100%;"allowfullscreen></iframe><div style="margin-bottom:5px"><strong><a href="https://www.slideshare.net/slideshow/storytelling-for-the-web-integrate-storytelling-in-your-design-process/269527754" title="storytelling-for-the-web-integrate-storytelling-in-your-design-process" target="_blank">storytelling-for-the-web-integrate-storytelling-in-your-design-process</a></strong>from <strong><a href="https://www.slideshare.net/chiaraaliotta7" target="_blank">Chiara Aliotta</a></strong></div>
 
 ⚠️ Warning: StackBlitz does not work properly in Safari. Please use a supported alternative browser (such as Chrome, Firefox, or Edge) for the best experience.
 
