@@ -1,0 +1,7 @@
+FOREGROUND: Red
+Command: Powershell
+Referror: https://kenny.ms/ps2
+At line:1 char:10
+
+	-Status - [op]- [opt]-[Let's get you signed in
+Upload files, use Voice without limits, and make Copilot yours with memory across conversations.].app
