@@ -1,3 +1,9 @@
+#Syntax
+import(moduleName)
+import(moduleName, options)
+
+The import() call is a syntax that closely resembles a function call, but import itself is a keyword, not a function. You cannot alias it like const myImport = import, which will throw a SyntaxError.
+
 Tradexpress Playground Documentation
 Welcome to the Tradexpress Playground documentation. Playgrounds allow you to run interactive demos directly in your browser without requiring any local installations.
 
