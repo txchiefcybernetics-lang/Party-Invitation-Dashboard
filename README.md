@@ -15,6 +15,12 @@ Browser Compatibility:Embed presentation
 
 ⚠️ Warning: StackBlitz does not work properly in Safari. Please use a supported alternative browser (such as Chrome, Firefox, or Edge) for the best experience.
 
+> [!TIP]
+> **Tips & Suggestions**
+> - Use Chrome, Firefox, or Edge when working in StackBlitz; Safari may not behave as expected.
+> - Start with the Hello World example, then change one thing at a time so issues are easier to find.
+> - Preview embedded content at mobile widths and confirm third-party links still work before sharing your demo.
+
 Hello World (HTML) Example
 Below is a standard HTML "Hello World" template configured for the Tradexpress platform environment:
 
